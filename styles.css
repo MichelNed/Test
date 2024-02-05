@@ -11,6 +11,10 @@ body {
   margin: 0 auto;
 }
 
+h1 {
+  color:red;
+}
+
 header {
   background-color: #333;
   color: #fff;
